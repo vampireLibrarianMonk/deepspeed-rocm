@@ -3,6 +3,8 @@ This repo was created for anyone curious as to what is going on with AMD GPUs, R
 
 Please stop by the following repo first [amd-gpu-hello](https://github.com/vampireLibrarianMonk/amd-gpu-hello) to get the computer build and the environment setup.
 
+The following [documentation](https://huggingface.co/docs/transformers/main_classes/deepspeed) still requires full review.
+
 # Getting Started
 1. The following packages were installed to support plotting images for prediction verification.
 ```bash
